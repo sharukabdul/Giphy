@@ -1,0 +1,20 @@
+.main {
+    background-color: black;
+}
+
+.giphy {
+    display: inline-block; 
+    color: white;
+}
+
+input {
+    width: 90%;
+    height: 40px;
+    margin: 0px 0px 10px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgb(0, 0, 0);
+    padding: 0px 10px;
+    outline: none;
+}

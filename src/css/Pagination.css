@@ -1,0 +1,12 @@
+.page-link:hover{
+    background-color: yellow;
+}
+  
+.page-link:focus{
+    background-color: skyblue;
+}
+
+.page-link {
+    border: 1px solid black;
+    float: left;
+}
